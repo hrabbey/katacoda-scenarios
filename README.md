@@ -1,3 +1,7 @@
+# Unused -  Katacoda
+
+This is leftover from a brief exploration into Katacoda.
+
 # Interactive Katacoda Scenarios
 
 [![](http://shields.katacoda.com/katacoda/hrabbey/count.svg)](https://www.katacoda.com/hrabbey "Get your profile on Katacoda.com")
